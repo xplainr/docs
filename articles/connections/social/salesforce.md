@@ -59,7 +59,7 @@ Copy the `Consumer Key` and `Consumer Secret` from the **Connected App** page of
 
 ## Salesforce Community Authentication
 
-Authenticating users in a Salesforce community uses different endpoints that the regular Salesforce app.
+Authenticating users in a Salesforce community uses different endpoints than the regular Salesforce app.
 
 The authorization URL for a Community site will be: `https://{name of your community}.force.com/{community path}/oauth2/authorize`.
 
